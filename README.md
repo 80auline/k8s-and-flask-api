@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+![CircleCI](circleci.png)
 
 ## Project Overview
 
