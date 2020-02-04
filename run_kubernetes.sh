@@ -11,4 +11,4 @@ kubectl create deployment $dockerpath --image=pauline08/$dockerpath:latest
 kubectl get pods
 
 # Forward the container port to a host
-kubectl port-forward devops-ml-project-68b7d68758-p86ct 8000:80
+kubectl port-forward devops-ml-project-68b7d68758-c9qjd 8000:80

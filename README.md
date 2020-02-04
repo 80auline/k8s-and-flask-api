@@ -1,4 +1,4 @@
-![CircleCI](circleci.png)
+[![CircleCI](https://circleci.com/gh/PaulineBeurier8/k8s-and-flask-api.svg?style=svg)](https://circleci.com/gh/PaulineBeurier8/k8s-and-flask-api)
 
 ## Project Overview
 
